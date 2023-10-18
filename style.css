@@ -1,0 +1,27 @@
+.container {
+  max-width: 1213px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 100px;
+}
+.about-heading {
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 24px;
+}
+.about-content {
+}
+
+li {
+  display: inline-block;
+}
+
+html {
+  width: 1213px;
+  height: 854px;
+  top: 173px;
+  left: 193px;
+}
